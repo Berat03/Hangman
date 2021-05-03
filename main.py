@@ -5,6 +5,8 @@ Add guess whole word function
 
 
 TESTING CHANGE
+
+EDIT IN GITHUB
 """
 import enchant
 
